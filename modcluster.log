@@ -1,0 +1,10 @@
+Edit Log for modcluster.bin created by TunerPro.
+**************************************************************************
+05/01/2024 23:08:27  Scalar:    Distance Impulse Number changed from 2  (0x02) to 4  (0x04).
+05/01/2024 23:09:19  Table:     Number Of Keys changed.
+05/01/2024 23:09:41  Table:     SKC Login Code changed.
+05/01/2024 23:10:03  Table:     Odometer changed.
+05/01/2024 23:10:51  Table:     Vehicle Identification Number changed.
+05/01/2024 23:11:21  Table:     Immobilizer ID changed.
+05/01/2024 23:11:44  Table:     Immobilizer Key changed.
+05/01/2024 23:23:03  Table:     Temperature Stepper Position changed.
